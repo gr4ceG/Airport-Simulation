@@ -9,3 +9,5 @@ Go to `releases` and download the lastest release. Unzip the zip file, and then 
 Or, with an installed Java IDE: 
 - Clone this repository
 - Then run `src/my/airportSim -> AirportFrame.java` 
+
+## Screenshots
