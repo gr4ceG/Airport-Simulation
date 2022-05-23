@@ -1,4 +1,4 @@
-# Airport
+# Airport-Tower-Simulation
 This program simulates the processes of an airport control tower: managing flight landing and takeoff. 
 
 `arrivals.txt` and `takeoffs.txt` contain flights that, respectively, arrive and take off immediately upon program launch. Text files can be edited to include or exclude initial arrivals and/or takeoffs. 
